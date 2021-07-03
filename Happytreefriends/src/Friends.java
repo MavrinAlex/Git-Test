@@ -4,6 +4,8 @@ public class Friends {
 
         System.out.println("Hello happy tree friends!!!");
 
+        System.out.println("Hello friend ^^");
+
 
     }
 
